@@ -1,0 +1,16 @@
+E:\Teaching\IT\OU\HK211\LTCSDL\Code\IM91_LINQ\IM91_LINQ_Console\IM91_LINQ_Console\bin\Debug\net5.0\IM91_LINQ_Console.exe
+E:\Teaching\IT\OU\HK211\LTCSDL\Code\IM91_LINQ\IM91_LINQ_Console\IM91_LINQ_Console\bin\Debug\net5.0\IM91_LINQ_Console.deps.json
+E:\Teaching\IT\OU\HK211\LTCSDL\Code\IM91_LINQ\IM91_LINQ_Console\IM91_LINQ_Console\bin\Debug\net5.0\IM91_LINQ_Console.runtimeconfig.json
+E:\Teaching\IT\OU\HK211\LTCSDL\Code\IM91_LINQ\IM91_LINQ_Console\IM91_LINQ_Console\bin\Debug\net5.0\IM91_LINQ_Console.runtimeconfig.dev.json
+E:\Teaching\IT\OU\HK211\LTCSDL\Code\IM91_LINQ\IM91_LINQ_Console\IM91_LINQ_Console\bin\Debug\net5.0\IM91_LINQ_Console.dll
+E:\Teaching\IT\OU\HK211\LTCSDL\Code\IM91_LINQ\IM91_LINQ_Console\IM91_LINQ_Console\bin\Debug\net5.0\ref\IM91_LINQ_Console.dll
+E:\Teaching\IT\OU\HK211\LTCSDL\Code\IM91_LINQ\IM91_LINQ_Console\IM91_LINQ_Console\bin\Debug\net5.0\IM91_LINQ_Console.pdb
+E:\Teaching\IT\OU\HK211\LTCSDL\Code\IM91_LINQ\IM91_LINQ_Console\IM91_LINQ_Console\obj\Debug\net5.0\IM91_LINQ_Console.csproj.AssemblyReference.cache
+E:\Teaching\IT\OU\HK211\LTCSDL\Code\IM91_LINQ\IM91_LINQ_Console\IM91_LINQ_Console\obj\Debug\net5.0\IM91_LINQ_Console.GeneratedMSBuildEditorConfig.editorconfig
+E:\Teaching\IT\OU\HK211\LTCSDL\Code\IM91_LINQ\IM91_LINQ_Console\IM91_LINQ_Console\obj\Debug\net5.0\IM91_LINQ_Console.AssemblyInfoInputs.cache
+E:\Teaching\IT\OU\HK211\LTCSDL\Code\IM91_LINQ\IM91_LINQ_Console\IM91_LINQ_Console\obj\Debug\net5.0\IM91_LINQ_Console.AssemblyInfo.cs
+E:\Teaching\IT\OU\HK211\LTCSDL\Code\IM91_LINQ\IM91_LINQ_Console\IM91_LINQ_Console\obj\Debug\net5.0\IM91_LINQ_Console.csproj.CoreCompileInputs.cache
+E:\Teaching\IT\OU\HK211\LTCSDL\Code\IM91_LINQ\IM91_LINQ_Console\IM91_LINQ_Console\obj\Debug\net5.0\IM91_LINQ_Console.dll
+E:\Teaching\IT\OU\HK211\LTCSDL\Code\IM91_LINQ\IM91_LINQ_Console\IM91_LINQ_Console\obj\Debug\net5.0\ref\IM91_LINQ_Console.dll
+E:\Teaching\IT\OU\HK211\LTCSDL\Code\IM91_LINQ\IM91_LINQ_Console\IM91_LINQ_Console\obj\Debug\net5.0\IM91_LINQ_Console.pdb
+E:\Teaching\IT\OU\HK211\LTCSDL\Code\IM91_LINQ\IM91_LINQ_Console\IM91_LINQ_Console\obj\Debug\net5.0\IM91_LINQ_Console.genruntimeconfig.cache
